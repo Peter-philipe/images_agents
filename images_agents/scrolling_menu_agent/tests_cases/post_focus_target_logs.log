@@ -1,0 +1,8 @@
+INFO (tests_cases.ted_manager.ted_controller) 12/11/2023 22:52:32 PM: Abrindo Ted
+INFO (tests_cases.ted_manager.ted_controller) 12/11/2023 22:52:32 PM: Indo para aba de |testar|
+INFO (tests_cases.ted_manager.ted_controller) 12/11/2023 22:52:39 PM: Tab |testar| está disponível
+INFO (tests_cases.ted_manager.ted_controller) 12/11/2023 22:52:42 PM: Menu de scrolling aberto
+INFO (menu_scroller) 12/11/2023 22:52:42 PM: Iniciando busca por foco
+INFO (menu_scroller) 12/11/2023 22:52:53 PM: Alvo não está no foco. Iniciando busca na direção escolhida
+INFO (menu_scroller) 12/11/2023 22:53:13 PM: Alvo encontrado
+INFO (tests_cases.ted_manager.ted_controller) 12/11/2023 22:53:13 PM: Fechando janela
